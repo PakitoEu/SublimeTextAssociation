@@ -20,7 +20,7 @@ if defined pathToSublimeTextExe if exist "%pathToSublimeTextExe%" (
 	assoc .inf=SublimeTextFiles
 	assoc .ini=SublimeTextFiles
 	assoc .log=SublimeTextFiles
-	assoc .txt=SublimeTextFiles
+	:: assoc .txt=SublimeTextFiles
 
 	:: Sublime Text
 	assoc .sublime-build=SublimeTextFiles
@@ -44,10 +44,10 @@ if defined pathToSublimeTextExe if exist "%pathToSublimeTextExe%" (
 	assoc .bbcode=SublimeTextFiles
 
 	:: Markdown
-	assoc .markdn=SublimeTextFiles
-	assoc .markdown=SublimeTextFiles
-	assoc .md=SublimeTextFiles
-	assoc .mdown=SublimeTextFiles
+	:: assoc .markdn=SublimeTextFiles
+	:: assoc .markdown=SublimeTextFiles
+	:: assoc .md=SublimeTextFiles
+	:: assoc .mdown=SublimeTextFiles
 
 	:: Git
 	assoc .gitignore=SublimeTextFiles
