@@ -5,7 +5,7 @@ setlocal enabledelayedexpansion
 
 :: Enter the path to the executable sublime_text.exe
 :: e.i: C:\Program Files (x86)\Sublime Text 2\sublime_text.exe
-set pathToSublimeTextExe=YOUR_VALUE
+set pathToSublimeTextExe="C:\Program Files\Sublime Text 2\sublime_text.exe"
 
 
 
